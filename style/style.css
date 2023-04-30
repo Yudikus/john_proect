@@ -1,11 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;900&display=swap');
 
-
-
-
-
-
-
 body{
     font-family: 'Heebo', sans-serif;
     color: #21243D;
@@ -16,13 +10,12 @@ body{
     overflow: clip;
     min-height: 100%;
     position: relative;
-
     display: flex;
     flex-direction: column;
 }
 
 .wrapper > main{
-    flex-grow: 1 1 auto;
+    flex-grow: 1;
 }
 
 [class*="__container"]{
@@ -366,6 +359,71 @@ body{
     text-align: center;
     font-size: 14px;
     line-height: 1.5;
+} 
+
+.text{
+
+} 
+
+
+
+/****----BLOG PAGE----------------****/
+
+.page__blog{
+
+} 
+
+.blog-page{
+
+} 
+
+.blog-page__container{
+
+} 
+
+.blog-page__tittle{
+    margin-bottom: 40px;
+    padding-top: 100px;
+} 
+
+.tittle{
+
+} 
+
+.blog-page__content{
+
+} 
+
+.blog-page__column{
+
+} 
+
+.blog-page__item{
+    max-width: 681px;
+    padding-bottom: 25px;
+    border-bottom: 1px solid #E0E0E0;
+    margin-bottom: 25px;
+} 
+
+.item-blog{
+    
+} 
+
+.item-blog__tittle{
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.46;
+    margin-bottom: 10px;
+} 
+
+.item-blog__info{
+    font-size: 20px;
+    line-height: 1.45;
+    margin-bottom: 10px;
+} 
+
+.item-blog__text{
+
 } 
 
 .text{
