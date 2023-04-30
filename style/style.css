@@ -340,3 +340,34 @@ body{
     }
 
 }
+
+/*-------------FOOTER----------*/
+.footer{
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.footer__container{
+
+} 
+
+.footer__icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+    margin-bottom: 25px;
+} 
+
+.footer__icon{
+
+} 
+
+.footer__text{
+    text-align: center;
+    font-size: 14px;
+    line-height: 1.5;
+} 
+
+.text{
+
+} 
